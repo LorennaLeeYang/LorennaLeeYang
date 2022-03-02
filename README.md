@@ -22,7 +22,6 @@
   <img align="center" alt="Lorenna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lorenna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lorenna-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Lorenna-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/937824831003566110/942106313209557022/338224_s2fj4eu9.png">
 </div>
     
   ##
